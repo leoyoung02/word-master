@@ -22,4 +22,4 @@ To contribute to the code, see [CONTRIBUTING.md](https://github.com/octokatherin
 
 ## Co-author
 
-leoyoung02, ellite0925
+ellite0925, leoyoung02
