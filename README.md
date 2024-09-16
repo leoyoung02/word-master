@@ -18,3 +18,8 @@ After submitting a guess, the letters will turn gray, green, or yellow.
 Feel free to open an issue for any bugs or feature requests.
 
 To contribute to the code, see [CONTRIBUTING.md](https://github.com/octokatherine/word-master/blob/main/CONTRIBUTING.md)
+
+
+## Co-author
+
+leoyoung02, ellite0925
